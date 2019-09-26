@@ -17,6 +17,6 @@
 		"title": "Practice Redux",
 		"description": "The store, actions, actions creator and reducers!",
 		"status": "In Progress"
-	},
+	}
   ]
 }
