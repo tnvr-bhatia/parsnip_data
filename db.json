@@ -1,4 +1,5 @@
-"tasks":[
+{
+  "tasks":[
 	{
 		"id": 1,
 		"title": "Learn Redux",
@@ -17,4 +18,5 @@
 		"description": "The store, actions, actions creator and reducers!",
 		"status": "In Progress"
 	},
-]
+  ]
+}
